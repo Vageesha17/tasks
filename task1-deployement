@@ -21,6 +21,6 @@ spec:
   spec:
    containers:
    - name: tom
-     image: tomcat
+     image: manya97/manya_tomcat:0.1
      ports:
      - containerPort: 80

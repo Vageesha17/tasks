@@ -1,0 +1,3 @@
+kubectl create -f secret0204.yaml
+
+kubectl create configmap cm3 --from-file=index.jsp
